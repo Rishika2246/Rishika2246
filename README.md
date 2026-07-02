@@ -21,22 +21,12 @@
 
 ## About Me
 
-I'm an AI/ML student at **CBIT Hyderabad**, building systems that sit at the intersection of intelligent automation and real product design — from RAG-powered assistants to full-stack platforms used by real people. I care less about buzzwords and more about whether the thing I built actually works end to end: model to backend to interface.
+I'm an Artificial Intelligence & Machine Learning student at **CBIT Hyderabad**
 
-Most of my time goes into shipping projects that solve a concrete problem — campus systems, governance platforms, travel assistants — rather than isolated notebooks. I like owning the whole stack, and I like when the AI layer is genuinely useful, not just bolted on.
-
-<br/>
-
-## What I Build
-
-- 🧠 **AI/ML Systems** — from classical models to deep learning pipelines
-- 🤖 **GenAI & LLM Applications** — RAG pipelines, AI assistants, agentic workflows
-- 👁️ **Computer Vision** — OpenCV & MediaPipe-based analysis and detection
-- 🌐 **Full-Stack Products** — React/Next.js frontends with FastAPI/Node backends
-- ⚡ **Real-Time Systems** — WebSockets, live dashboards, event-driven architecture
-- 🏆 **Hackathon & Research Builds** — scalable, demo-ready, production-minded
+Building random ideas into projects and learning things the hard way while doing it.
 
 <br/>
+
 
 ## Tech Stack
 
@@ -101,128 +91,99 @@ Most of my time goes into shipping projects that solve a concrete problem — ca
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### UniVerse
-
-**AI-Enabled Enterprise Campus Platform**
-
-Smart campus management system automating attendance, scheduling, exams, hall tickets, seating allocation, and certificates — with role-based access, QR verification, face recognition support, and live analytics dashboards.
-
-`Next.js` `React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `OpenCV` `WebSockets`
-
-[🔗 Repository](https://github.com/Rishika2246/UniVerse-2025)
-
-</td>
-<td width="50%" valign="top">
-
-### PrajaSetu
-
-**AI-Driven Digital Governance Platform**
-
-Unified governance platform for secure voting, transparent administration, tax management, and citizen services. Research project conditionally accepted for oral presentation at **IEEE ICoECIT 2026**.
-
-`AI/LLMs` `Full-Stack` `Secure Systems`
-
-[🔗 Repository](https://github.com/Rishika2246/PRAJASETU_MINIPROJECT)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### BhashaYatri
-
-**AI Travel & Language Assistant**
-
-Tourism platform with live speech translation, OCR signboard translation, AI avatar assistant, text-to-speech, offline support, and emergency SOS for travelers.
-
-`React` `TypeScript` `Node.js` `Python` `Firebase` `Bhashini APIs` `Twilio` `OCR`
-
-[🔗 Repository](https://github.com/Rishika2246/BHASHAYATRI)
-
-</td>
-<td width="50%" valign="top">
-
-### LuminaX
-
-**AI-Powered Sports Talent Assessment**
-
-Sports-tech platform democratizing athlete assessment through camera-based performance analysis, face authentication, liveness detection, and official dashboards.
-
-`React` `TypeScript` `Node.js` `Firebase` `MediaPipe` `OpenCV` `Python`
-
-[🔗 Repository](https://github.com/Rishika2246/LuminaX-SIH)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ScriptSense
-
-**AI-Powered Script Analysis Platform**
-
-An intelligent platform that analyzes scripts and written content to extract key insights, understand context, improve readability, and support smarter content evaluation through AI.
-
-`Python` `AI/LLMs` `NLP` `Full-Stack`
-
-[🔗 Repository](https://github.com/Rishika2246/ScriptSense)
-
-</td>
-<td width="50%" valign="top">
-
-### Smriti AI
-
-**AI Memory & Knowledge Assistant**
-
-An AI-powered assistant designed to organize, retrieve, and interact with personal knowledge using intelligent search, contextual understanding, and conversational AI.
-
-`Python` `LLMs` `RAG` `Vector Database` `Full-Stack`
-
-[🔗 Repository](https://github.com/Rishika2246/SmritiAI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### EcoAI
-
-**AI for Sustainable Living**
-
-An AI-driven sustainability platform designed to help users make more environmentally conscious decisions through intelligent recommendations, awareness tools, and eco-friendly tracking.
-
-`Python` `AI/ML` `Full-Stack` `Sustainability`
-
-[🔗 Repository](https://github.com/Rishika2246/EcoAI)
-
-</td>
-<td width="50%" valign="top">
-
-### Kindora
-
-**AI-Powered Social Impact Platform**
-
-A digital platform focused on connecting people with meaningful causes, simplifying community support, and enabling users to discover and contribute to social-impact initiatives.
-
-`React` `Node.js` `AI/LLMs` `Full-Stack`
-
-[🔗 Repository](https://github.com/Rishika2246/Kindora)
-
-</td>
-</tr>
-</table>
+<details open>
+<summary><b>UniVerse</b> · AI-Enabled Enterprise Campus Platform</summary>
 
 <br/>
 
+A role-based campus management platform that brings attendance, examinations, hall tickets, seating allocation, certificates, QR verification, and live analytics into one system.
+
+**Tech Stack:**  
+`Next.js` `React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `REST APIs` `WebSockets` `OpenCV` `JWT Authentication`
+
+[Repository →](https://github.com/Rishika2246/UniVerse-2025)
+
+</details>
+
+<details>
+<summary><b>PrajaSetu</b> · AI-Driven Digital Governance Platform</summary>
+
+<br/>
+
+A unified citizen-services platform for secure voting, transparent administration, tax management, and civic engagement.
+
+> Research project conditionally accepted for oral presentation at **IEEE ICoECIT 2026**.
+
+**Tech Stack:**  
+`React` `TypeScript` `Node.js` `Express.js` `Python` `FastAPI` `PostgreSQL` `REST APIs` `JWT Authentication` `AI/LLMs`
+
+[Repository →](https://github.com/Rishika2246/PRAJASETU_MINIPROJECT)
+
+</details>
+
+<details>
+<summary><b>BhashaYatri</b> · AI Travel & Language Assistant</summary>
+
+<br/>
+
+A multilingual travel companion with live speech translation, OCR signboard translation, AI assistance, text-to-speech, offline support, cultural guidance, and emergency SOS.
+
+**Tech Stack:**  
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Python` `Firebase` `Bhashini APIs` `Twilio Voice API` `OCR` `IndexedDB` `PWA`
+
+[Repository →](https://github.com/Rishika2246/BHASHAYATRI)
+
+</details>
+
+<details>
+<summary><b>LuminaX</b> · AI-Powered Sports Talent Assessment</summary>
+
+<br/>
+
+A sports-tech platform that supports camera-based performance analysis, athlete authentication, liveness detection, and data dashboards for sports officials.
+
+**Tech Stack:**  
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Firebase Authentication` `Firestore` `MediaPipe` `OpenCV` `Python` `Computer Vision`
+
+[Repository →](https://github.com/Rishika2246/LuminaX-SIH)
+
+</details>
+
+<details>
+<summary><b>Smriti AI</b> · AI Memory & Knowledge Assistant</summary>
+
+<br/>
+
+A RAG-powered knowledge assistant that organizes information, enables contextual search, and answers questions through conversational retrieval.
+
+**Tech Stack:**  
+`Python` `FastAPI` `LangChain` `OpenAI API` `RAG` `ChromaDB` `Embeddings` `Vector Search` `PDF Processing`
+
+[Repository →](https://github.com/Rishika2246/SmritiAI)
+
+</details>
+
+<details>
+<summary><b>NeoWealth</b> · Personalized Financial Goal Planner</summary>
+
+<br/>
+
+A financial planning tool that interprets natural-language goals, identifies the amount and timeline, then creates a personalized savings and investment roadmap with progress tracking.
+
+**Tech Stack:**  
+`React` `TypeScript` `Node.js` `Express.js` `Python` `NLP` `AI/LLMs` `PostgreSQL` `REST APIs` `Data Visualization`
+
+[Repository →](https://github.com/Rishika2246/NeoWealth)
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/Rishika2246?tab=repositories">
+    <b>Explore all repositories →</b>
+  </a>
+</p>
 
 ## Certifications
 
@@ -262,14 +223,6 @@ A digital platform focused on connecting people with meaningful causes, simplify
 <br/>
 
 
-## Currently Exploring
-
-- 🔍 Advanced RAG architectures & agentic AI workflows
-- 🧩 Multimodal models combining vision and language
-- ☁️ Scalable backend design for AI-driven products
-- 🛡️ Face liveness and deepfake detection techniques
-
-<br/>
 
 ## Let's Connect
 
