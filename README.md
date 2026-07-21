@@ -218,7 +218,6 @@ A financial planning tool that interprets natural-language goals, identifies the
   </a>
 </p>
 <p align="center">
-  <sub>300+ problems solved on <a href="https://leetcode.com/u/rishikareddy22/">LeetCode</a> — one pattern at a time.</sub>
 </p>
 <br/>
 
