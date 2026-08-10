@@ -210,17 +210,6 @@ A financial planning tool that interprets natural-language goals, identifies the
 
 <br/>
 
-## LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/rishikareddy22/">
-    <img src="https://leetcard.jacoblin.cool/rishikareddy22?theme=dark&font=baloo2&ext=heatmap&bg_color=0D1117&border_color=38BDF8&text_color=C9D1D9" alt="LeetCode Stats" />
-  </a>
-</p>
-<p align="center">
-</p>
-<br/>
-
 
 
 ## Let's Connect
